@@ -1,1 +1,1 @@
-This is my ai project
+This is my ml project
